@@ -18,7 +18,7 @@ body{
     align-items: center;
     flex-direction: column;
     gap: 20px;
-    background-color:#70d684;
+    background-color:#cbc4fa;
     font-family:Arial, Helvetica, sans-serif;
 }
 
@@ -30,7 +30,7 @@ button{
     padding: 10px 20px;
     font-size: 16px;
     color: white;
-    background-color: #086b33d3;
+    background-color: #08196bd3;
     border: none;
     border-radius: 5px;
     cursor: pointer;
